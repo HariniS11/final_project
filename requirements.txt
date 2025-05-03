@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+pickle-mixin
+category_encoders
+joblib
+seaborn
+matplotlib
+Pillow
+scikit-learn
+fastparquet
+xgboost
