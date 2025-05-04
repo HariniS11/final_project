@@ -90,14 +90,3 @@ The dataset contains customer and campaign-related attributes from previous mark
 * Add logging and enhanced UI for better UX
 
 ---
-
-## 👤 Author
-
-**Your Name**
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
