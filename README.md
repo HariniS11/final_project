@@ -17,6 +17,12 @@ By building a machine learning model that classifies clients as likely to **subs
 The dataset contains customer and campaign-related attributes from previous marketing efforts.
 
 ### 🔑 Features:
+## Age Feature
+![image](https://github.com/user-attachments/assets/278df696-447b-4700-a0f5-55a72a9d0f3f)
+
+## Duration Feature
+![image](https://github.com/user-attachments/assets/636d848e-8aac-4bd7-be99-41ade32cbefa)
+
 
 * **Numerical:** `age`, `balance`, `day`, `duration`
 * **Categorical:** `job`, `marital`, `education`, `default`, `housing`, `loan`, `month`
